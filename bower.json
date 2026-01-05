@@ -1,9 +1,9 @@
 {
   "name": "angular-message-format-lts",
-  "version": "1.8.4",
+  "version": "1.8.5",
   "main": "./angular-message-format.js",
   "ignore": [],
   "dependencies": {
-    "angular": "1.8.4"
+    "angular": "1.8.5"
   }
 }
