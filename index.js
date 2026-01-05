@@ -1,2 +1,3 @@
-require('./angular-message-format');
-module.exports = 'ngMessageFormat';
+import './angular-message-format.js';
+
+export default window.ngMessageFormat;
